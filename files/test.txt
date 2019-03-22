@@ -1,0 +1,6 @@
+One implementation for reading a text file
+ one line at a time might look like the following code. 
+ Note that for the remainder of this article I will be 
+ demonstrating how to read in the text of the book The "Iliad of Homer" 
+which can be found at gutenberg.org, as well as in the 
+GitHub repo where the code is for this article.
